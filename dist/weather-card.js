@@ -168,9 +168,7 @@ class WeatherCard extends LitElement {
         }
       ]
     };
-
-    console.log(stateObj);
-
+    
     if (!stateObj) {
       return html`
         <style>
@@ -461,7 +459,7 @@ class WeatherCard extends LitElement {
           float: left;
           text-align: center;
           color: var(--primary-text-color);
-          border-right: 0.1em solid #d9d9d9;
+          border-right: 0.1em solid var(--paper-input-container-color, var(--secondary-text-color));
           line-height: 2;
           box-sizing: border-box;
         }
