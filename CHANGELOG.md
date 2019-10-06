@@ -1,3 +1,7 @@
+## 2.0
+
+- Adjusted to support weather data from darksky and display both a hourly and daily forecast
+
 ## 1.2.0
 
 - Added UI editor
