@@ -1,4 +1,4 @@
-**Adjusted to support weather data from darksky and display both a hourly and daily forecast.**
+**Adjusted to support weather data from [darksky](https://www.home-assistant.io/integrations/darksky) and display both a hourly and daily forecast.**
 
 ![Weather Card](https://github.com/Tobi0892/weather-card/blob/master/weather-card.png?raw=true)
 
